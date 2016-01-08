@@ -1,0 +1,18 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Neuron Gym": {
+      "applicationId": "XmtbPmL82G7jUj1sELf8LX8MGPznVhZMkDKEDElg",
+      "masterKey": "uJjtbGdO00UJuNWanLml1tXMIy3nnNNGijSifViW"
+    },
+    "NoteApp": {
+      "applicationId": "P1lrUxLrbOcGUn8jsusiaPwphnwqSnTUaVq4GUBm",
+      "masterKey": "K4t4lK9TRn0XLluW7oHYVJzQc4IqHlDrvn9c2boo"
+    },
+    "_default": {
+      "link": "Neuron Gym"
+    }
+  }
+}
